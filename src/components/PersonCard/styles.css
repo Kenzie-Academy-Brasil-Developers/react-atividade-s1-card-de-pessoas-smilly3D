@@ -13,7 +13,8 @@
   align-content: center;
   justify-content: center;
   text-align: left;
-
+  padding: 5px;
+  flex-wrap: wrap;
   cursor: pointer;
 }
 
